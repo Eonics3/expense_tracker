@@ -10,12 +10,12 @@ const Main = () => {
 
   return (
     <Card className={classes.root}>
-        <CardHeader title="Expense Tracker" />
+        <CardHeader title="Make it Count!" />
         <CardContent>
-          <Typography align = "center" variant="h5">Total Balance $100</Typography>
+          <Typography align = "center" variant="h5">Start tracking your finances</Typography>
           <Typography variant="subtitle1" style={{lineHeight:'1.5em', marginTop:'20px'}}>
             {/*}info card components*/}
-            Try saying: Add income for $100
+            {/* Try saying: Add income for $100 */}
           </Typography>
           <Divider />
            <Form />
