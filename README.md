@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+##Inspiration
+Recently, I've gone out to eat a lot, and have been spending more money with my friends. I wanted a way to see how much money I was spending and to keep a budget to make sure I don't go overboard in spending. Creating this app helped me see the different transactions I was making and how much money I had spent and earned in total.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##What it does
+Allows users to track their finances by inputting the type, category, amount, and date that the transaction was made. The total expenses and income is displayed as well as a log of all the transactions the user has made.
 
-## Available Scripts
+##How we built it
+Make it Count is created using the MaterialUI, and ReactJS framework along with React hooks, and Context API.
 
-In the project directory, you can run:
+##Challenges we ran into
+I've never used the Context API in React so using that to sync all the files together was difficult and time consuming.
 
-### `npm start`
+##Accomplishments that we're proud of
+I'm proud of being able to use different frameworks I wasn't extremely familiar with and creating new components with them.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##What we learned
+I learned more about file organization as well as the power of that different frameworks bring compared to vanilla JS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##What's next for Make it Count!
+I'd like to implement a full front end and back end application that stores all of the users' data, and allows them to login to keep track of their data.
 
-### `npm test`
+##Built With
+css3
+html5
+javascript
+react
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##Try it out
+ make-it-count.netlify.app
