@@ -1,5 +1,5 @@
 # Make it Count | Hacky Birthday MLH
-## Inspiration
+## ☁️ Inspiration
 Recently, I've gone out to eat a lot, and have been spending more money with my friends. I wanted a way to see how much money I was spending and to keep a budget to make sure I don't go overboard in spending. Creating this app helped me see the different transactions I was making and how much money I had spent and earned in total.
 
 ## 🚧 What It Does
